@@ -7,9 +7,9 @@ This GitHub profile showcases my learning journey, hands-on projects, and practi
 
 **Skills & Tools**
 
-**Data Analysis**: Data cleaning, transformation, and exploratory analysis  
+**Data Analysis:** Data cleaning, transformation, and exploratory analysis  
 **Excel:** Pivot Tables, Power Query, formulas, dashboards  
-**SQL:**Data querying, JOINs, aggregations, subqueries  
+**SQL:** Data querying, JOINs, aggregations, subqueries  
 **Power BI:** Data modeling, DAX, interactive dashboards  
 **Python:** Pandas, NumPy, Matplotlib, Seaborn  
 
