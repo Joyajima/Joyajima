@@ -29,11 +29,11 @@ Some of the projects available on this GitHub include:
 - **Data Cleaning & Visualization (Python)**  
   Data wrangling with Pandas and visual storytelling using Matplotlib and Seaborn.
 
-➡️ Explore my repositories to view datasets, queries, dashboards, and analysis files.
+ Explore my repositories to view datasets, queries, dashboards, and analysis files.
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Advanced SQL techniques  
 - DAX formulas and Power BI optimization  
@@ -42,7 +42,7 @@ Some of the projects available on this GitHub include:
 
 ---
 
-## 🎯 Career Goals
+##  Career Goals
 
 - Build industry-standard data analytics projects  
 - Develop a strong professional portfolio  
@@ -50,7 +50,7 @@ Some of the projects available on this GitHub include:
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 - **LinkedIn:**  
 - **Email:** ajimajoy4@gmail.com  
@@ -59,4 +59,4 @@ I am open to collaboration, internships, and entry-level data analyst opportunit
 
 ---
 
-⭐ *This profile will be updated regularly as I continue learning and building projects.*
+ *This profile will be updated regularly as I continue learning and building projects.*
