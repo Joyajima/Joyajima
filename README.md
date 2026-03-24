@@ -52,7 +52,7 @@ Some of the projects available on this GitHub include:
 
 ## Connect With Me
 
-- **LinkedIn:**  
+- **LinkedIn:**  https://www.linkedin.com/in/joy-ajima-47a1b8348
 - **Email:** ajimajoy4@gmail.com  
 
 I am open to collaboration, internships, and entry-level data analyst opportunities.
